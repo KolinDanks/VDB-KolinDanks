@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Project Solution", "Project Solution\Project Solution.ssmssqlproj", "{907D7C09-F2E6-4234-B4D5-619733534739}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "First Joins", "First Joins\First Joins.ssmssqlproj", "{57619C0C-9AB0-4809-80FC-7827D9148753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{907D7C09-F2E6-4234-B4D5-619733534739}.Default|Default.ActiveCfg = Default
+		{57619C0C-9AB0-4809-80FC-7827D9148753}.Default|Default.ActiveCfg = Default
+		{09C32CF8-F41D-48ED-AFE5-DC8CD371F26C}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {767BAE3A-56B6-4B7E-9EB3-1A93022D8558}
+	EndGlobalSection
+EndGlobal

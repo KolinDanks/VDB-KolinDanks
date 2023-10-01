@@ -1,0 +1,14 @@
+As a <user type>, I want to <some goal> so that I can <(optional) for some reason>"
+
+As a PC Builder I want to organize my PCs Builds so That i know what needs to be done
+
+As a PC Builder I want to organize my PCs parts so i can keep track of What i need to order
+
+As a PC Builder I want to Organize my PCs parts so me and my customers know how much their pc will cost
+
+As a PC Builder I want to Organize my Recipts so i can keep track of when a customer needs their PC and wether its a complete build or just an upgrade
+
+As a PC Builder I want to Organize my Recipts so i can keep track of my customers
+
+As a PC Builder I want to Organize my Recipts so i can keep track of wether its a complete build or just an upgrade
+

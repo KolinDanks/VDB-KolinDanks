@@ -1,0 +1,7 @@
+Order(ID, Customer_ID, Build_ID, Cost, Expected_Complete_Date)
+
+Customer(ID, First_Name, Middle_Initial, Last_Name, Phone, Email, Shipping_ID,)
+
+Shipping(ID, Street1, Street2, City, State, Zipcode, Delivery_Info,)
+
+Build(ID, Build_Type, Build_Notes, PC_Case, Fan_Type, Fan_Num, MOBO, CPU, GPU, RAM, PSU, Storage1, Storage2,)
